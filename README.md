@@ -7,12 +7,12 @@ Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉�
 * 只有 CVE-2022-26134 版本支持哥斯拉，冰蝎自定义密码，其他版本都是默认密码
 
 **V1.0**
-1. 命令执行（其他版本同理）
+1. 命令执行（其他 CVE 版本同理）
   
   <img width="788" alt="image" src="https://github.com/Lotus6/ConfluenceMemshell/assets/63742814/ebbad08a-994c-4717-818a-721f24250119">
 
 
-2. 内存马注入（其他版本同理）
+2. 内存马注入（其他 CVE 版本同理）
 * 哥斯拉
 
 <img width="788" alt="image" src="https://github.com/Lotus6/ConfluenceMemshell/assets/63742814/b7221eaa-d7d5-4fce-ba77-d3f1969b492a">
@@ -21,7 +21,8 @@ Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉�
 
 * 冰蝎
 
-<img width="788" alt="image" src="https://github.com/Lotus6/ConfluenceMemshell/assets/63742814/5c51b57e-dde5-4f84-81ab-52ffcae34d4e">
+<img width="788" alt="image" src="https://github.com/Lotus6/ConfluenceMemshell/assets/63742814/21861463-c3ba-41f5-a7a7-9249758eb8e3">
+
 
 <img width="1291" alt="image" src="https://github.com/Lotus6/ConfluenceMemshell/assets/63742814/d95dd5c7-6843-4c3c-aac7-bb3147e32005">
 
