@@ -15,14 +15,16 @@ Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉�
 
 1. 创建用户
 
-<img width="780" alt="image" src="https://github.com/Lotus6/ConfluenceMemshell/assets/63742814/b360d9c3-3201-4c15-8237-453e55b64194">
+<img width="783" alt="image" src="https://github.com/Lotus6/ConfluenceMemshell/assets/63742814/ced702d4-c8bf-4b97-bc2c-00e298b69d20">
+
 
 * 成功创建
 <img width="1389" alt="image" src="https://github.com/Lotus6/ConfluenceMemshell/assets/63742814/ae4d1a0c-bd45-49aa-9107-563898954c4f">
 
 2. 生成恶意插件 Jar 包（包含哥斯拉，和CmdShell）
 
-<img width="785" alt="image" src="https://github.com/Lotus6/ConfluenceMemshell/assets/63742814/3f7c1518-d2f6-4e58-82c2-3d8935def5d0">
+<img width="785" alt="image" src="https://github.com/Lotus6/ConfluenceMemshell/assets/63742814/72774447-7fd1-4a75-81a2-fbc3bfa214b0">
+
 
 * 显示内存马地址，和pass:key（双击复制，shell路径，key，ua）
 
