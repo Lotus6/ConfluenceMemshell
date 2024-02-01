@@ -2,7 +2,7 @@
 Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉，冰蝎 内存马注入
 * 支持 Confluence 版本：CVE-2021-26084，CVE-2022-26134，CVE_2023_22515，CVE-2023-22527
 * (如果对您有帮助，感觉不错的话，请您给个大大的 ⭐️❗️)
-* 哥斯拉默认密码：pass ，默认key：key
+* 哥斯拉默认密码：pass ，默认key：key ，请求配置 - 协议头 需加上 `Connection: close`
 * 冰蝎默认密码：rebeyond，默认UA：Accept-Language:zh-CN,zh;q=0.95,n-AS,fr-RF
 * 只有 CVE-2022-26134 版本支持哥斯拉，冰蝎自定义密码，其他版本都是默认密码
 
@@ -10,7 +10,7 @@ Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉�
 * 新增 CVE_2023_22515，用户创建，内存马注入，基于 CmdShell 的命令执行
 * table 双击复制当前行，shell路径，key，ua
 * 哥斯拉 memshell 地址：url+/plugins/servlet/com/atlassian/TeamManageServlet
-* 哥斯拉默认密码：pass ，默认key：key
+* 哥斯拉默认密码：pass ，默认key：key ，请求配置 - 协议头 需加上 `Connection: close`
 * CmdShell 地址:url+/plugins/servlet/com/atlassian/TeamManageServlet?team=whoami
 
 1. 创建用户
